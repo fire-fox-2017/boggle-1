@@ -20,5 +20,6 @@ class BoggleBoard{
   }
 
   var boggle1 = new BoggleBoard();
-  var boggle2 = boggle1.shake (4);
-  console.log(boggle2);
+boggle1.shake(4)
+  //var boggle2 = boggle1.shake (9);
+  console.log(boggle1);
